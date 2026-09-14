@@ -1,4 +1,4 @@
 server.log
 node_modules/
 .vercel
-server.js
+dev-server.js
